@@ -1,21 +1,21 @@
 {
   "content": [
     {
-      "id": "21a0e6f",
+      "id": "f3b2c1a",
       "elType": "e-flexbox",
       "settings": {
         "classes": {
           "$$type": "classes",
           "value": [
-            "e-21a0e6f-095dbb2"
+            "e-f3b2c1a-4a1b2c3"
           ]
         }
       },
       "elements": [],
       "isInner": false,
       "styles": {
-        "e-21a0e6f-095dbb2": {
-          "id": "e-21a0e6f-095dbb2",
+        "e-f3b2c1a-4a1b2c3": {
+          "id": "e-f3b2c1a-4a1b2c3",
           "label": "local",
           "type": "class",
           "variants": [
@@ -28,26 +28,88 @@
                 "min-height": {
                   "$$type": "size",
                   "value": {
-                    "size": 50,
+                    "size": 477,
                     "unit": "px"
                   }
+                },
+                "border-radius": {
+                  "$$type": "size",
+                  "value": {
+                    "size": 10,
+                    "unit": "px"
+                  }
+                },
+                "border-width": {
+                  "$$type": "size",
+                  "value": {
+                    "size": 10,
+                    "unit": "px"
+                  }
+                },
+                "border-color": {
+                  "$$type": "color",
+                  "value": "#C0C45E"
+                },
+                "border-style": {
+                  "$$type": "string",
+                  "value": "solid"
                 },
                 "background": {
                   "$$type": "background",
                   "value": {
                     "color": {
                       "$$type": "color",
-                      "value": "#000000"
+                      "value": "#C7667E"
                     }
                   }
+                },
+                "box-shadow": {
+                  "$$type": "box-shadow",
+                  "value": [
+                    {
+                      "$$type": "shadow",
+                      "value": {
+                        "hOffset": {
+                          "$$type": "size",
+                          "value": {
+                            "size": 13,
+                            "unit": "px"
+                          }
+                        },
+                        "vOffset": {
+                          "$$type": "size",
+                          "value": {
+                            "size": 0,
+                            "unit": "px"
+                          }
+                        },
+                        "blur": {
+                          "$$type": "size",
+                          "value": {
+                            "size": 10,
+                            "unit": "px"
+                          }
+                        },
+                        "spread": {
+                          "$$type": "size",
+                          "value": {
+                            "size": 0,
+                            "unit": "px"
+                          }
+                        },
+                        "color": {
+                          "$$type": "color",
+                          "value": "rgba(0, 0, 0, 0.5)"
+                        }
+                      }
+                    }
+                  ]
                 }
               }
             }
           ]
         }
-      },
-      "editor_settings": [],
-      "version": "0.0"
+      }
     }
   ],
   "page_settings": [],
